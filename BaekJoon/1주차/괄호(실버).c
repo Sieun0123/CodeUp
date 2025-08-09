@@ -13,7 +13,7 @@ int main()
     scanf("%s", str);
 
     int count = 0;
-    int isValid = 1; // VPS 여부
+    int isValid = 1;
 
     for (int j = 0; j < strlen(str); j++)
     {
